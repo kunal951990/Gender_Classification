@@ -2,13 +2,7 @@
 
 This is the code for gender classification on the basis of small dataset of body metrics (height, width, and shoe size) labeled male or female. The code uses the scikit-learn machine learning library to train by using below classifiers:-
 
-1. Decision Tree Classifier 
-2. Logistic Classifier
-3. KNN Classifiers
-4 SVM Classifiers
-5 Kernel SVM Classifiers
-6 Naive Bayes Classifiers
-7 Random Forest Classifiers
+Decision Tree Classifier, Logistic Classifier, KNN Classifiers, SVM Classifiers, Kernel SVM Classifiers, Naive Bayes Classifiers and Random Forest Classifiers
 
 Then we can predict the gender of someone given a novel set of body metrics.
 
